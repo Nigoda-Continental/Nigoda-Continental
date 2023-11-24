@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nigoda-Continental
+- 👋 Hi, I’m @Nishanth Gowda
 - 👀 I’m interested in Automotive
 - 🌱 I’m currently learning Designing Embedded system
 - 💞️ I’m looking to collaborate on Automotive 
